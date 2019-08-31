@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="weatherapp">
+<head>
+<meta t="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular.min.js" type="application/javascript"></script>
+<meta charset="UTF-8">
+<title>Weather Forecast</title>
+<style>
+	.weatherModule {
+    	height: 250px;
+    	width: 350px;
+    	border: 1px dashed #ccc;
+    	padding: 10px;
+    }
+    .input
+    {
+    	max-width: 800px;
+        color: black;
+        font-size: 18px;
+        margin: auto;
+        padding: 10px;
+        text-align: center;
+    }
+
+</style>
+<script>
+	var app = angular.module('weatherapp', []);
+    app.controller('weatherController' , function ($scope,$http) {
+    	$scope.show = function (city, country) {
+			alert('http://api.openweathermap.org/data/2.5/forecast?q=Kansas%20City,US&APPID=3f6703048a4e801a52cf56dae55a53c8');
+            $http.get('http://api.openweathermap.org/data/2.5/forecast?q=Kansas%20City,US&APPID=3f6703048a4e801a52cf56dae55a53c8').success(function(data){
+            	alert(data);
+				$scope.tempArr = data.hourly_forecast;
+        })
+    };
+});
+</script>
+</head>
+<!--background="img-12.jpg"-->
+<body>
+<h1 style="text-align: center; font-family: 'Droid Serif'"><strong>WEATHER REPORT</strong></h1>
+<div ng-controller="weatherController">
+
+	<div class="input">
+		<label style="font-family: 'arial'">COUNTRY CODE</label>: <input ng-model="country" ></input>
+		<label style="font-family: 'arial'">CITY</label>: <input ng-model="city"></input>
+		
+		
+		<br/><br/>
+		<button type="button" class="btn btn-dark" ng-click="show(city, country)" value="weather details">Show Weather</button>
+		<br/><br/>
+	</div>
+	<div id="showWeather">
+		<table class="table" style="margin: auto; height:250px;width: 450px">
+			<td ng-repeat="x in tempArr" ng-if="$index<5" style="padding-left: 7.5px;
+	padding-right: 7.5px;"><img src={{x.icon_url}}><br/><br/>{{x.temp.english}}<br/><br/>
+				{{x.condition}}<br/><br/></td>
+		</table>
+	</div>
+</div>
+
+</body>
+</html>
