@@ -1,0 +1,50 @@
+<div class="parent-container">
+  <div class="child-container">
+    <h2><b>Search for your food!!
+    </b></h2><br>
+    <form>
+      <div class="form-group">
+        <div class="form-group col-lg-6 col-lg-offset-3 input-group">
+          <input type="text" class="form-control" (blur)='responsiveVoice.speak(foodItem)' placeholder="Food item" #foodItem>
+          <span class="input-group-addon">-</span>
+        </div><br>
+        <button type="button" class="btn btn primary col-lg-2 col-lg-offset-5 " (click)="getInformation();">Go</button>
+      </div>
+    </form>
+  </div>
+</div><br><br>
+<div class="container">
+  <div class="row">
+    <br><br>
+    <div class="form-group col-lg-6 col-lg-offset-3 input-group">
+    <div class="panel panel-default col-6">
+      <div class="panel-heading"><b>Calories and serving weight in grams</b></div>
+      <div class="panel-body">
+        <div *ngFor="let fields of nutrition" class="list-group-item clearfix">
+          <div class="pull-left">
+            <h4 class="list-group-item-text">Calories : {{ fields.calories }}</h4>
+            <h4 class="list-group-item-text">Serving Weight in Grams : {{ fields.servingWeightGrams }}</h4>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    <br><br>
+    <button type="button" class="btn btn primary col-lg-2 col-lg-offset-5 " (click)="logout();">LogOut</button>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
