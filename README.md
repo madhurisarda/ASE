@@ -1,6 +1,6 @@
-ASE-Lab-Assignments-Madhuri Sarda
+ASE Lab Assignments Repository - Madhuri Sarda
 Class ID - 21
-Lab Assignments Repository
+Lab ID - 6_2
 
 Wiki Links for Lab Assignments
 
