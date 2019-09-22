@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Local Notification
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ul>
+    <div *ngFor="let location of locationList | async">
+      <li> {{ 'Users Latituide:' + location['Latitude']}}</li>
+    <li>
+      {{'Users Latituide:' +location['Longitude']}}</li>
+    </div>
+  </ul>
+  <form (ngSubmit)="checkIn()">
+    <button ion-button full round>Current location</button>
+  </form>
+
+</ion-content>
