@@ -37,9 +37,7 @@ const argv =  yargs
     })
     .command('list','List all notes')
     .command('read','Read a note',{
-        ID: customerID,
-        Name: customerName,
-        Email: customerEmail
+        ID: customerID
     })
     .command('remove','Remove a Note',{
       ID: customerID

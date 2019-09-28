@@ -35,10 +35,6 @@ var addNote = (ID,Name,Email) => {
     var duplicateNotes =  notes.filter((note) => { // to check if note already exists
        if(note.ID === ID) {
            updateNotes(ID,Name,Email);
-           /*remove(ID); // update the value for existing notes
-           var filteredNotes = fetchNotes();
-           filteredNotes.push(customerNote);
-           saveNotes(filteredNotes);*/
        }
         return note.ID === ID;
     });
