@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c79c127-7d29-44e8-a179-8ced4fabcb41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Tutorial - 4/src/pages/kgSearchAPI/kgSearch.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tutorial - 4/src/pages/kgSearchAPI/kgSearch.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial - 4/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/ionic.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial - 4/ionic.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial - 4/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial - 4/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-50@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-small@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon-small@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/icon/icon@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/splash/Default-568h@2x~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/splash/Default-667h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/splash/Default-736h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/splash/Default-Landscape-736h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/splash/Default-Landscape@2x~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/splash/Default-Landscape@~ipadpro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/splash/Default-Landscape~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/splash/Default-Portrait@2x~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/splash/Default-Portrait@~ipadpro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/splash/Default-Portrait~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/splash/Default@2x~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/splash/Default@2x~universal~anyany.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/resources/ios/splash/Default~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial - 4/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/src/app/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial - 4/src/app/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/src/pages/about/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial - 4/src/pages/about/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/src/pages/about/about.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial - 4/src/pages/about/about.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/src/pages/contact/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/src/pages/contact/contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial - 4/src/pages/kgSearchAPI/kgSearch.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/src/pages/contact/contact.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/src/pages/home/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial - 4/src/pages/home/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/src/pages/home/home.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial - 4/src/pages/home/home.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/src/pages/tabs/tabs.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial - 4/src/pages/tabs/tabs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/src/pages/tabs/tabs.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial - 4/src/pages/tabs/tabs.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial - 4/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorial - 4/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorial - 4/tslint.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Tutorial - 4" />
+  </component>
+  <component name="ProjectId" id="1QfTyOdlwSmZ2eSHzpN3WzUI70X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="excluded.www.directory" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ASE_LabAssignment/NutritionixWebPage" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\Masters\ASE_AdvanceSoftwareEngineering\Class\SourceCode\Tutorial - 4\Tutorial - 4\node_modules\typescript\lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c79c127-7d29-44e8-a179-8ced4fabcb41" name="Default Changelist" comment="" />
+      <created>1568160904504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568160904504</updated>
+      <workItem from="1568160906883" duration="3445000" />
+      <workItem from="1568253980939" duration="8074000" />
+      <workItem from="1568316063052" duration="15477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
