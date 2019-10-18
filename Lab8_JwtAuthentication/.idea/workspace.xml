@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="410c1f93-73bd-43d0-ace5-9bc9d3455b09" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/MashUp/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/MashUp/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MashUp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/MashUp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MashUp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/MashUp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MashUp/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MashUp/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MashUp/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/MashUp/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MashUp/src/app/app.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MashUp/src/app/app.component.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MashUp/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MashUp/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MashUp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MashUp/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MashUp/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MashUp/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MashUp/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MashUp/src/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/MashUp/src/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MashUp/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/MashUp/src/polyfills.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MashUp/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/MashUp/src/styles.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Tutorial2-Megha" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MashUp" />
+  </component>
+  <component name="ProjectId" id="1QLthX9sAtpF7iM7TxvBYYersMA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="ts.external.directory.path" value="D:\Masters\ASE_AdvanceSoftwareEngineering\ASE_LabAssignment\Lab8_JwtAuthentication\MashUp\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Masters\ASE_AdvanceSoftwareEngineering\CS5551-Tutorial-III\MashUp\src\app\register" />
+      <recent name="D:\Masters\ASE_AdvanceSoftwareEngineering\CS5551-Tutorial-III\MashUp\src\app\login" />
+      <recent name="C:\Users\BhargaviiNadendla\Downloads\CS5551-Tutorial-III\CS5551-Tutorial-III\MashUp\src\assets" />
+      <recent name="C:\Users\BhargaviiNadendla\Downloads\CS5551-Tutorial-III\CS5551-Tutorial-III\MashUp\src\images" />
+      <recent name="C:\Users\BhargaviiNadendla\Downloads\CS5551-Tutorial-III\CS5551-Tutorial-III\MashUp\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BhargaviiNadendla\Downloads\CS5551-Tutorial-III\CS5551-Tutorial-III\MashUp\src\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration name="home.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CS5551-Tutorial-III/home.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CS5551-Tutorial3-Megha/home.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/MashUp">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.home.html" />
+      <item itemvalue="JavaScript Debug.home.html (1)" />
+      <item itemvalue="Node.js.app.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="JavaScript Debug.home.html (1)" />
+        <item itemvalue="JavaScript Debug.home.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="410c1f93-73bd-43d0-ace5-9bc9d3455b09" name="Default" comment="" />
+      <created>1504807224892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504807224892</updated>
+      <workItem from="1504807227297" duration="1401000" />
+      <workItem from="1514698432241" duration="129000" />
+      <workItem from="1514935085546" duration="1789000" />
+      <workItem from="1547851204774" duration="23929000" />
+      <workItem from="1547918755050" duration="10008000" />
+      <workItem from="1547947912775" duration="1122000" />
+      <workItem from="1547950019965" duration="142000" />
+      <workItem from="1548090500573" duration="2326000" />
+      <workItem from="1567561887639" duration="3923000" />
+      <workItem from="1567614095839" duration="49796000" />
+      <workItem from="1568305864219" duration="4707000" />
+      <workItem from="1568316074487" duration="3741000" />
+      <workItem from="1568826503537" duration="24000" />
+      <workItem from="1571421065469" duration="745000" />
+      <workItem from="1571422082785" duration="5293000" />
+      <workItem from="1571430195591" duration="4585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/MashUp/src/app/login/login.component.ts</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
