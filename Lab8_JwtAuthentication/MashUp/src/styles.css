@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */
+.loginbackground{
+
+  background: #FEAC5E;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #4BC0C8, #C779D0);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #4BC0C8, #C779D0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.center {
+  margin: auto;
+  margin-top: 10% !important;
+  width: 50%;
+
+}
+.width-100
+{
+  width: 100%;
+}
+.boxstyle{
+
+  border-radius: 25px;
+  /*width: 200px;*/
+  height: 250px;
+  padding:2.2rem;
+  opacity: 1;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #e2e2e214, #c9d6ff0d);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #e2e2e214, #c9d6ff0d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  -webkit-box-shadow: 1px 0px 9px 0px rgba(105, 94, 105, 0.33);
+  -moz-box-shadow: 1px 0px 9px 0px rgba(105, 94, 105, 0.33);
+  box-shadow: 1px 0px 9px 0px rgba(105, 94, 105, 0.33);
+}

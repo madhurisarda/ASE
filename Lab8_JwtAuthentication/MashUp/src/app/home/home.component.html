@@ -1,0 +1,11 @@
+<div class="center">
+  <div>
+    <button class="btn btn-success" (click)="getDetails()">Get my token Payload Details</button>
+  </div>
+  <div *ngIf="UserInfo" class="boxstyle" style="color: white; font-weight: bold">
+    <h5>Payload information</h5>
+    <p>User ID:  {{UserInfo.user.id}}</p>
+    <p>User Name: {{UserInfo.user.username}}</p>
+    <p>User Email:  {{UserInfo.user.email}}</p>
+  </div>
+</div>

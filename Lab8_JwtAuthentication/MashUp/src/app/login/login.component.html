@@ -1,0 +1,18 @@
+ <div class="col-3 center boxstyle">
+   <div><h3>JWT Authentication</h3></div>
+    <form>
+      <div class="form-group">
+        <input type="text" class="form-control form-control-lg control-label" name="username" placeholder="User name" [(ngModel)]="username">
+      </div>
+      <div class="form-group">
+        <input type="password" class="form-control form-control-lg"  name="password" placeholder="Password" [(ngModel)]="password">
+      </div>
+      <div *ngIf="InvalidUser" class="form-group">
+        <span style="color: red"> *Please check your credentials</span>
+      </div>
+      <div class="form-group">
+        <button type="submit" class="btn btn-success width-100" (click)="login()">Login</button>
+      </div>
+    </form>
+  </div>
+
